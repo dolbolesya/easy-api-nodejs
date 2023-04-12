@@ -1,0 +1,14 @@
+{
+  "name": "easy-api-nodejs",
+  "version": "1.0.0",
+  "description": "easy api example ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
